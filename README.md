@@ -1,7 +1,7 @@
 # PythonCRUDProject
 The goal of this project was to gain familiarity with the basics of REST API's, using the DJANGO Framework. 
 
-- **CRUD Functionality**:  
+ **CRUD Functionality**:  
   - Create: Add new records to the databas.  
   - Read: Retrieve records from the database
   - Update: Modify existing records.  
